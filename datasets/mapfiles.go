@@ -1,6 +1,7 @@
 package datasets
 
 var MapFileNames = map[string]string{
+	"uk": "united"
 	"china":       "china",
 	"world":       "world",
 	"广东":          "guangdong",
